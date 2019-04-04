@@ -1,5 +1,5 @@
 (ns d3-cljs.core-test
-  (:require [clojure.test :refer :all]
+  (:require [cljs.test :refer :all]
             [d3-cljs.core :refer :all]))
 
 (deftest a-test
